@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#2563eb"/></linearGradient></defs>
+<rect width="600" height="300" fill="url(#g)"/>
+<g fill="none" stroke="#fff" stroke-opacity=".9" stroke-width="10" stroke-linejoin="round">
+<rect x="225" y="110" width="150" height="105" rx="14"/><path d="M265 110v-20a12 12 0 0 1 12-12h46a12 12 0 0 1 12 12v20"/><path d="M225 160h150"/></g>
+<text x="300" y="262" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#fff" text-anchor="middle">Part-time</text>
+</svg>
